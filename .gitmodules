@@ -1,0 +1,21 @@
+[submodule "Dynamic"]
+	path = Dynamic
+	url = https://github.com/GSQueimadas/Dynamic
+[submodule "Database"]
+	path = Database
+	url = https://github.com/GSQueimadas/Database
+[submodule "DataScience"]
+	path = DataScience
+	url = https://github.com/GSQueimadas/DataScience
+[submodule "AR-VR"]
+	path = AR-VR
+	url = https://github.com/GSQueimadas/AR-VR
+[submodule "Network"]
+	path = Network
+	url = https://github.com/GSQueimadas/Network
+[submodule "Agile"]
+	path = Agile
+	url = https://github.com/GSQueimadas/Agile
+[submodule "Java"]
+	path = Java
+	url = https://github.com/GSQueimadas/Java
