@@ -1,21 +1,21 @@
 [submodule "Dynamic"]
 	path = Dynamic
-	url = https://github.com/GSQueimadas/Dynamic
+	url = https://github.com/GSFireTrack/Dynamic
 [submodule "Database"]
 	path = Database
-	url = https://github.com/GSQueimadas/Database
+	url = https://github.com/GSFireTrack/Database
 [submodule "DataScience"]
 	path = DataScience
-	url = https://github.com/GSQueimadas/DataScience
+	url = https://github.com/GSFireTrack/DataScience
 [submodule "AR-VR"]
 	path = AR-VR
-	url = https://github.com/GSQueimadas/AR-VR
+	url = https://github.com/GSFireTrack/AR-VR
 [submodule "Network"]
 	path = Network
-	url = https://github.com/GSQueimadas/Network
+	url = https://github.com/GSFireTrack/Network
 [submodule "Agile"]
 	path = Agile
-	url = https://github.com/GSQueimadas/Agile
+	url = https://github.com/GSFireTrack/Agile
 [submodule "Java"]
 	path = Java
-	url = https://github.com/GSQueimadas/Java
+	url = https://github.com/GSFireTrack/Java
