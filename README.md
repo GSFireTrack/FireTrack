@@ -1,7 +1,7 @@
 <p align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="Utils/Logo/PNG/LogoDark.png">
-        <img alt="Logo da FireTrack" src="Utils/Logo/PNG/Logo.png" width="300">
+        <source media="(prefers-color-scheme: dark)" srcset="Utils/Logo/PNG/LogoDarkHD.png">
+        <img alt="Logo da FireTrack" src="Utils/Logo/PNG/LogoHD.png" width="300">
     </picture>
 </p>
 
