@@ -1,0 +1,19 @@
+Resumo do Aplicativo FireTrack
+
+O FireTrack é um aplicativo voltado para o monitoramento, prevenção e combate a queimadas no Brasil, integrando tecnologia, ciência de dados e participação social. Utiliza dados oficiais do INPE, além de informações meteorológicas e modelos preditivos de inteligência artificial, para exibir em tempo real os focos de calor em um mapa interativo.
+
+Entre suas funcionalidades principais estão:
+
+    Visualização de focos de calor via satélite;
+
+    Previsão de risco de incêndios com base em análise de dados;
+
+    Exibição de dados climáticos relevantes (temperatura, vento, umidade);
+
+    Envio de alertas por usuários com fotos e localização GPS;
+
+    Histórico de queimadas por região e período;
+
+    Sistema de notificações e geração de relatórios personalizados.
+
+O objetivo do FireTrack é transformar dados ambientais em informações acionáveis, promovendo a colaboração entre cidadãos, órgãos públicos e equipes de resposta para mitigar os impactos das queimadas e fortalecer a proteção ambiental.
