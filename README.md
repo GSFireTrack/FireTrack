@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td><strong>Link do PDF</strong></td>
-    <td><a href="Utils/GS.pdf">GS.pdf</a></td>
+    <td><a href="https://github.com/GSFireTrack/FireTrack/blob/main/Utils/GS.pdf">GS.pdf</a></td>
   </tr>
   <tr>
     <td><strong>Curso</strong></td>
